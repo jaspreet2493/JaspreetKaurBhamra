@@ -1,3 +1,3 @@
 # JaspreetKaurBhamra_portfolio.github.io
 
-hhttps://jaspreet2493.github.io/JaspreetKaurBhamra/
+https://jaspreet2493.github.io/
